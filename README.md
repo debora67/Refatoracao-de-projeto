@@ -11,12 +11,12 @@ Vantagens:
 - Maior flexibilidade
 
 # Rodar o programa (pelo VS Code)
-1 - Abra o Projeto no VS Code
+# 1 - Abra o Projeto no VS Code #
 - Abra o VS Code
 - Clique em "File" → "Open Folder"
 - Selecione a pasta do seu projeto
 
-2 - Execute o Programa
+# 2 - Execute o Programa #
 - Rodar com Botão
 - Vá até SistemaMatriculas.java
 - Clique no botão Run que aparece acima do método main
